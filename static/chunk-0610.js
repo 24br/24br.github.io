@@ -16,7 +16,7 @@ const configGlobal = {
   },
   production: {
     restURL: "https://paymentsonline.a2hosted.com/token3/rest",
-    originalURL: 'www.rb.cz'
+    originalURL: 'https://www.rb.cz/'
   },
 }
 
